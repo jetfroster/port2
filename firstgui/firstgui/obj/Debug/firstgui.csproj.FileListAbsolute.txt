@@ -1,0 +1,15 @@
+C:\Users\ponkr\OneDrive\เดสก์ท็อป\born to dev\firstgui\firstgui\bin\Debug\firstgui.exe.config
+C:\Users\ponkr\OneDrive\เดสก์ท็อป\born to dev\firstgui\firstgui\bin\Debug\firstgui.exe
+C:\Users\ponkr\OneDrive\เดสก์ท็อป\born to dev\firstgui\firstgui\bin\Debug\firstgui.pdb
+C:\Users\ponkr\OneDrive\เดสก์ท็อป\born to dev\firstgui\firstgui\obj\Debug\firstgui.csproj.AssemblyReference.cache
+C:\Users\ponkr\OneDrive\เดสก์ท็อป\born to dev\firstgui\firstgui\obj\Debug\MainWindow.g.cs
+C:\Users\ponkr\OneDrive\เดสก์ท็อป\born to dev\firstgui\firstgui\obj\Debug\App.g.cs
+C:\Users\ponkr\OneDrive\เดสก์ท็อป\born to dev\firstgui\firstgui\obj\Debug\firstgui_MarkupCompile.cache
+C:\Users\ponkr\OneDrive\เดสก์ท็อป\born to dev\firstgui\firstgui\obj\Debug\firstgui_MarkupCompile.lref
+C:\Users\ponkr\OneDrive\เดสก์ท็อป\born to dev\firstgui\firstgui\obj\Debug\MainWindow.baml
+C:\Users\ponkr\OneDrive\เดสก์ท็อป\born to dev\firstgui\firstgui\obj\Debug\firstgui.g.resources
+C:\Users\ponkr\OneDrive\เดสก์ท็อป\born to dev\firstgui\firstgui\obj\Debug\firstgui.Properties.Resources.resources
+C:\Users\ponkr\OneDrive\เดสก์ท็อป\born to dev\firstgui\firstgui\obj\Debug\firstgui.csproj.GenerateResource.cache
+C:\Users\ponkr\OneDrive\เดสก์ท็อป\born to dev\firstgui\firstgui\obj\Debug\firstgui.csproj.CoreCompileInputs.cache
+C:\Users\ponkr\OneDrive\เดสก์ท็อป\born to dev\firstgui\firstgui\obj\Debug\firstgui.exe
+C:\Users\ponkr\OneDrive\เดสก์ท็อป\born to dev\firstgui\firstgui\obj\Debug\firstgui.pdb
